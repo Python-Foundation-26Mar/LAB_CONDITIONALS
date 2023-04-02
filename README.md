@@ -10,3 +10,5 @@
 - - else if the movie rating is 3 or greater and the popularity is greater than 70 , print "I recommended it . It is good"
 - - else if the movie rating is 2 or less and the popularity is greater than 60 , print "You should check it out!"
 -  - else  the movie rating is 2 or less and the popularity is less than 50 , print "Don't watch it. It is a waste of time"
+
+  
