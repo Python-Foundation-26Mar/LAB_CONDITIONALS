@@ -1,0 +1,22 @@
+movie = "who am I?"
+mov_rate : int = 3
+pop_score : float = 72.65
+
+if mov_rate >= 4 and pop_score > 80 :
+
+print ("Highly recommended")
+
+
+elif  mov_rate >= 3 and 80 > pop_score > 70 :
+
+print ("I recommended it . It is good")
+
+
+elif mov_rate >= 2 and 70 > pop_score > 60 :
+
+print ("You should check it out!")
+
+
+elif mov_rate < 2 and pop_score < 50 :
+
+print ("Don't watch it. It is a waste of time")
